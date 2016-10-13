@@ -1,0 +1,26 @@
+
+
+From kemper informatik uni kl de Michael Kemper RHRK
+Subject Hard disk error
+Message ID 1993Apr20 111026 informatik uni kl de
+Sender news rhrk uni kl de
+Organization University of Kaiserslautern
+Date Tue 20 Apr 1993 09 10 26 GMT
+Lines 16
+
+Hi there
+
+when I run Disk First Aid on my external hard drive Quantum LPS 240 I get the followinf
+message Error 535 Missing thread record TarID 31015 TarBlock 416
+Disk First Aid is not able to fix this problem Norton Utils doesn t find it at all
+When I use Norton Disk editor to look at TarBlock 416 I can read something like DirReservedArea
+
+My question How can I get rid of this error without reformatting of course
+
+
+Michael Kemper
+University of Kaiserslautern Germany
+email kemper rhrk uni kl de
+
+Although they gave me that email address
+this is not the opinion of rhrk uni kl or de
