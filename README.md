@@ -1,2 +1,2 @@
-# COMP135
-Machine Learning Projects
+# COMP136
+Statistical Pattern Recognition
